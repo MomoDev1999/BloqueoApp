@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BloqueoApp</string>
+    <string name="mensajebloqueo">Cuando acabe el tiempo podrás utilizar tu teléfono otra vez</string>
+    <string name="cronometrodefault">00:00</string>
+    <string name="estadonotificacionesdefault">Notificaciones: Bloqueadas</string>
+    <string name="esperalogros">Espero logres lo que te has propuesto mientras tengas tu teléfono bloqueado</string>
+    <string name="imagedescription">Imagen de bloqueo</string>
+    <string name="notificacionesbloqueadas">Bloqueadas</string>
+    <string name="notificacionesnobloqueadas">No Bloqueadas</string>
+    <string name="estadonotificaciones">Notificaciones: %s</string>
+
+    <string name="promptminutos">Ingrese los minutos a bloquear</string>
+    <string name="autofillhintsminutos">Minutos a bloquear</string>
+    <string name="promptnotificaciones">Bloquear las notificaciones</string>
+    <string name="promptbloquear">Bloquear teléfono</string>
+
+    <string name="empty"> </string>
+
+
+
+</resources>
